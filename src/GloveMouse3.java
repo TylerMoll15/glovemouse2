@@ -89,8 +89,8 @@ public class GloveMouse3 {
 				click(x, y);
 				//JOptionPane.showMessageDialog(null, String.format("yea boi"));
 				
-				x+=10;
-				y+=10;
+				x+=100;
+				y+=100;
 			};
 		});
 		btnNewButton.setBounds(167, 199, 89, 23);
