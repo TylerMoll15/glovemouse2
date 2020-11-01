@@ -63,7 +63,11 @@ public class GloveMouse3 {
 	/**
 	 * Initialize the contents of the frame.
 	 */
-//	private void initialize() {
+	
+	
+	//NARDS
+	
+	private void initialize() {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 457, 357);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
